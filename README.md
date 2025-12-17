@@ -2,13 +2,13 @@
 Exploratory Data Analysis on Amazon sales data to understand product ratings, pricing, discounts, and customer preferences. Derived actionable insights using Python, Pandas, and data visualization techniques.
 🔍 What I did:
 
-Cleaned and prepared raw data for analysis
+1. Cleaned and prepared raw data for analysis
 
-Analyzed product categories, prices, ratings, discounts, and reviews
+2. Analyzed product categories, prices, ratings, discounts, and reviews
 
-Visualized trends to identify sales patterns and customer preferences
+3. Visualized trends to identify sales patterns and customer preferences
 
-Derived insights that can support product development and marketing decisions
+4. Derived insights that can support product development and marketing decisions
 
 🛠 Skills Applied:
 
