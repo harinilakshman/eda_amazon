@@ -12,14 +12,14 @@ Exploratory Data Analysis on Amazon sales data to understand product ratings, pr
 
 🛠 Skills Applied:
 
-Python
+1. Python
 
-Pandas & NumPy
+2. Pandas & NumPy
 
-Data Cleaning & EDA
+3. Data Cleaning & EDA
 
-Data Visualization
+4. Data Visualization
 
-Insight-driven storytelling
+5. Insight-driven storytelling
 
 This project helped me understand how data can be translated into actionable business insights that improve decision-making and customer engagement.
